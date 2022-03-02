@@ -1,0 +1,34 @@
+body {
+  margin: 2% 38% 2% 38%;
+  font-size: 25px;
+  background-color: black;
+  color: gold;
+}
+main {
+  display: flex;
+  margin-bottom: -60px;
+  padding: 20px;
+}
+h4 {
+  border: 5px solid gold;
+}
+h3 {
+  font-weight: bold;
+  margin-left: 20px;
+  font-size: 30px;
+  line-height: 2px;
+  font-family: sans-serif;
+  color: white;
+  letter-spacing: 3px;
+}
+
+/* //////// */
+div {
+  border: 3px solid gold;
+
+  padding: 10px 105px 30px 105px;
+}
+h1 {
+  border-bottom: 3px solid gold;
+  text-shadow: 30px -30px 2px;
+}
